@@ -44,3 +44,11 @@ To regenerate the dataset, use the `generate_dataset.py` script included in this
 1. Clone this repository:
    ```bash
    git clone https://github.com/yourusername/diverse-transaction-dataset.git
+
+   ## Contact
+For questions, feedback, or collaboration, feel free to reach out:
+
+- **Email**: neochoy@gmail.com
+- **GitHub**: [neochoy](https://github.com/neochoy)
+- **LinkedIn**: https://www.linkedin.com/in/neojiaxian/
+
